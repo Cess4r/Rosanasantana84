@@ -16,19 +16,17 @@ Olá, me chamo Rosana e bem vindo ao meu Git!😎
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=Rosanasantana84&theme=gotham&hide_border=true&area=true)
   
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rosanasantana84&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://i.postimg.cc/nLhy8fx0/download20220903181547.png"/>
 </p>
   
-<div> 
-  <a href="https://instagram.com/ro_grunge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
- <a href="https://discord.gg/BJQ7NFqu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  <a href = "mailto:rosanagrunge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+<div>
+  <a href="https://instagram.com/ro_grunge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+ <a href="https://discord.gg/BJQ7NFqu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:rosanagrunge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/rosanasouzasantanapcd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  
   </a> 
+<img width=60% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
